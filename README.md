@@ -5,6 +5,8 @@
 - Use class attributes and methods to write durable and powerful code.
 - Accomplish complex programming tasks using knowledge from previous modules.
 
+***
+
 ## Key Vocab
 
 - **Attribute**: variables that belong to an object.
@@ -18,6 +20,8 @@
 - **Exception**: an error that occurs during the execution of a program.
   Exceptions can be anticipated and handled without disrupting the execution of
   the program.
+
+***
 
 ## Introduction
 
@@ -44,6 +48,8 @@ In the next several lessons we'll be taking a look at:
 At a glance, you might assume class attributes work like instance attributes;
 however, this is not the case. In this section, we'll distinguish the difference
 between class methods and attributes and when to use them.
+
+***
 
 ## Resources
 
